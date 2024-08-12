@@ -1,19 +1,15 @@
-<!-- Imports -->
-<link href="https://fonts.googleapis.com/css2?family=Qwitcher+Grypen:wght@400;700&display=swap" rel="stylesheet">
-
 <!--Banner-->
 ![empham1 Banner](https://media.licdn.com/dms/image/D5616AQFYQSPNGStvlQ/profile-displaybackgroundimage-shrink_350_1400/0/1707881598409?e=1729123200&v=beta&t=bXvb_GkeAvYGgLvQPo4Sre-PRcIKx5Z8EzWCx-yY56U)
 
 <!--Header Name-->
-<p style="font-family: 'Segoe UI', sans-serif; font-weight:100; font-size: 36px">
-    Hello world, I'm <span style="font-family: 'Qwitcher Grypen', sans-serif; font-weight: 100; font-size: 64px; color: #F8D6B3">Emily Pham</span> ✨
-</p>
+<img src="./images/welcome.png" height="75">
 
 
 <!--Start Intro-->               
 * 📖 I'm a senior at UCLA studying math/computer science
 * 🌱 I’m currently learning game development in Unity
 * ⚡ Fun fact: I love lattes and cozy video games!
+<br>
 <!--End Intro-->
 
 <!-- Divider -->
@@ -22,9 +18,9 @@
 </p>
 
 <!-- Languages and Tools Section -->
-<p align="center" style="font-family: 'Segoe UI', sans-serif; font-weight: 100; font-size: 28px;">
-    Languages and Tools
-</h2>
+<div align="center">
+  <img src="./images/languages-header.png" height="45">
+</div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=empham1&show_icons=true&locale=en&layout=compact" alt="empham1" /></p>
 
@@ -37,9 +33,10 @@
 </p>
 
 <!--Contact Section--> 
-<p align="center" style="font-family: 'Segoe UI', sans-serif; font-weight: 100; font-size: 28px;">
-    Connect with Me
-</p>
+<div align="center">
+  <img src="./images/connect-header.png" height="45">
+</div>
+
 <div align="center">
 <a href="mailto:phamemilym@gmail.com" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email icon" width="40" height="40" style="margin-right: 10px;"/>
